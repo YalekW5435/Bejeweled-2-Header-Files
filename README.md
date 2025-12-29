@@ -1,5 +1,5 @@
-# Bejeweled-2-Header-Files
-The official bejeweled 2 headers from the cutting rrom floor, now as a github repository.
+# Bejeweled-2-Header-Fileso
+The official bejeweled 2 headers from the cutting room floor, now as a github repository.
 This repository (and its readme) have been modified to have proper Windows Code 1252 CRLF line endings instead of the original mac based, (which is where these headers came from).
 
 There is a ton of nusiances going around as to if EA owns and/or gives two craps about these older games.  The true answer is...no they dont.  In fact, they actually have a github here already, with tons of repositories...
