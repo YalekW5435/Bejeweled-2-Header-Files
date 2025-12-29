@@ -1,4 +1,4 @@
-# Bejeweled-2-Header-Fileso
+# Bejeweled-2-Header-Files
 The official bejeweled 2 headers from the cutting room floor, now as a github repository.
 This repository (and its readme) have been modified to have proper Windows Code 1252 CRLF line endings instead of the original mac based, (which is where these headers came from).
 
